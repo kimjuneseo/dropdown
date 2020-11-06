@@ -4,19 +4,21 @@
     /* text-align: center; */
     background-color: rgb(54, 53, 53);
     color: #fff;
+    
 }
-.sub>a{
-   
+.ul>li{
+    margin: 7px;
 }
 
 .커피{ 
     float: left;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+    text-align: left;
     
 }
 
-.스타벅스리저브{
+.나와어울리는커피{
        
 }
 
