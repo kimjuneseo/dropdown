@@ -1,41 +1,32 @@
 *{
-    text-decoration: none;  
-    padding: 0; 
-    margin: 0;
     text-align: center;
+    text-decoration: none;
     list-style: none;
     color: black;
+    margin: 0;
+    padding: 0;
 }
 
 .dd{
-    margin: 0 auto;
     width: 400px;
+    margin: 0 auto;
+    
 }
 
-.dd>li{
+dd>li{
     width: 100px;
     line-height: 50px;
     float: left;
 }
 
-
 .down>li{
-    height: 0;
     overflow: hidden;
+    height: 0;
     margin: 0 auto;
-    background-color: green;
-    transition: .3s;
+    transition: .9s;
+    background-color: blueviolet;
 }
 
 .ho:hover .down>li{
-   height: 50px;
-}
-
-.a:hover .ddd{
     height: 50px;
 }
-
-
-
-
-
